@@ -112,7 +112,7 @@
     },
     {
       "key": "Wobg",
-      "name": "玩偶|表哥",
+      "name": "玩偶┃表哥",
       "type": 3,
       "style": {
         "type": "rect",
@@ -124,7 +124,7 @@
     },
     {
       "key": "玩偶弹幕版",
-      "name": "玩偶|弹幕",
+      "name": "玩偶┃弹幕",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,

@@ -2,7 +2,7 @@
 //公众号：『乐享汇fans』『乐享生活fans』
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
   "spider":"./lxhfans.jar",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category={dongman,fengjing}",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=dongman&px=m&type=302",
   "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
   "lives": [
     {
